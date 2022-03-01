@@ -36,9 +36,9 @@
 
 # 项目导师
 
-陈益飞
+付鑫
 
-* email colordev.jiang@huawei.com
+* email fuxin@jihualab.com
 
 # 难度
 
